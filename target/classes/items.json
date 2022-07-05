@@ -1,0 +1,60 @@
+{
+  "name": "devicesList",
+  "devicesList": [
+    {
+      "name": "Топор",
+      "attack": 5,
+      "defence": 3
+    },
+    {
+      "name": "Булава",
+      "attack": 4,
+      "defence": 2
+    },
+    {
+      "name": "Меч",
+      "attack": 4,
+      "defence": 4
+    },
+    {
+      "name": "Трезубец",
+      "attack": 5,
+      "defence": 2
+    },
+    {
+      "name": "Сабля",
+      "attack": 3,
+      "defence": 3
+    },
+    {
+      "name": "Шашка",
+      "attack": 2,
+      "defence": 4
+    },
+    {
+      "name": "Шлем",
+      "attack": 1,
+      "defence": 4
+    },
+    {
+      "name": "Кальчуга",
+      "attack": 1,
+      "defence": 3
+    },
+    {
+      "name": "Щит",
+      "attack": 3,
+      "defence": 5
+    },
+    {
+      "name": "Наручи",
+      "attack": 2,
+      "defence": 3
+    },
+    {
+      "name": "Сетка",
+      "attack": 1,
+      "defence": 3
+    }
+  ]
+}

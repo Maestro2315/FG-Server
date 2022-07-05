@@ -1,0 +1,29 @@
+{
+  "name": "listFighters",
+  "fighters": [
+    {
+      "name": "Спартанец",
+      "hp": 100,
+      "attackSkill": 1,
+      "defenceSkill": 0.5
+    },
+    {
+      "name": "Секутор",
+      "hp": 100,
+      "attackSkill": 0.6,
+      "defenceSkill": 0.8
+    },
+    {
+      "name": "Провокатор",
+      "hp": 100,
+      "attackSkill": 0.8,
+      "defenceSkill": 0.8
+    },
+    {
+      "name": "Андабат",
+      "hp": 100,
+      "attackSkill": 0.5,
+      "defenceSkill": 1
+    }
+  ]
+}
